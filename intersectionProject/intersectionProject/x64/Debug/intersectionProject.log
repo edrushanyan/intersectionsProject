@@ -1,0 +1,5 @@
+﻿  intersections.cpp
+C:\Users\ASUS\source\repos\intersectionProject\intersectionProject\intersections.cpp(73,34): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASUS\source\repos\intersectionProject\intersectionProject\intersections.cpp(167,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ASUS\source\repos\intersectionProject\intersectionProject\intersections.cpp(177,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  intersectionProject.vcxproj -> C:\Users\ASUS\source\repos\intersectionProject\x64\Debug\intersectionProject.exe
